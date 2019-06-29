@@ -1,0 +1,16 @@
+C:\Users\Nicho\csharp\ElectronicShop\bin\Debug\netcoreapp2.2\ElectronicShop.deps.json
+C:\Users\Nicho\csharp\ElectronicShop\bin\Debug\netcoreapp2.2\ElectronicShop.runtimeconfig.json
+C:\Users\Nicho\csharp\ElectronicShop\bin\Debug\netcoreapp2.2\ElectronicShop.runtimeconfig.dev.json
+C:\Users\Nicho\csharp\ElectronicShop\bin\Debug\netcoreapp2.2\ElectronicShop.dll
+C:\Users\Nicho\csharp\ElectronicShop\bin\Debug\netcoreapp2.2\ElectronicShop.pdb
+C:\Users\Nicho\csharp\ElectronicShop\bin\Debug\netcoreapp2.2\ElectronicShop.Views.dll
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.csprojAssemblyReference.cache
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.RazorAssemblyInfo.cache
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.RazorAssemblyInfo.cs
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.AssemblyInfoInputs.cache
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.AssemblyInfo.cs
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.RazorTargetAssemblyInfo.cache
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.dll
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.pdb
+C:\Users\Nicho\csharp\ElectronicShop\obj\Debug\netcoreapp2.2\ElectronicShop.csproj.CopyComplete
