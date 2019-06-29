@@ -5,7 +5,7 @@
  - Microsoft.EntitiyFramework
  - AutoFac.Extensions.DependencyInjection
  
- #First time setup Guide
+ # First time setup Guide
  1. `dotnet restore`
  2. `dotnet build`
  3. `dotnet run`
